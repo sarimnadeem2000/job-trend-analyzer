@@ -1,0 +1,16 @@
+# Streamlit for UI
+streamlit
+
+# Pandas for data manipulation
+pandas
+
+# Used in your scraper
+requests
+beautifulsoup4
+lxml
+
+# Optional: For handling CSVs and filesystem
+python-dateutil
+
+# Optional but recommended for robust scraping
+fake-useragent
